@@ -64,12 +64,8 @@ taylorButton.addEventListener('click', () => {
                     album.style.color = cor
                     songDiv.appendChild(album);
                 }
-            ).catch(
-
             )
         });
-
-
 });
 
 catButton.addEventListener('click', () => {
